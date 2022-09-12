@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+// for without std
+
+int main()
+{
+ cout << "Hello World";
+
+ return 0;
+}
